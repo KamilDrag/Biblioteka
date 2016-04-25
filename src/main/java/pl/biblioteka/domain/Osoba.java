@@ -32,8 +32,8 @@ public class Osoba {
         return miejscowosc;
     }
 
-    public void setMiejscowosc(String miejscowość) {
-        this.miejscowosc = miejscowość;
+    public void setMiejscowosc(String miejscowosc) {
+        this.miejscowosc = miejscowosc;
     }
 
     public String getKod_miejscowosci() {
